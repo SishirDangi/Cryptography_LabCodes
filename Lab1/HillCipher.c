@@ -8,7 +8,6 @@ int main() {
     unsigned int c[20], d[20];
     char msg[20];
     int determinant = 0, t = 0;
-    ;
     printf("Enter plain text\n ");
     scanf("%s", msg);
     for (i = 0; i < 3; i++) {
